@@ -1,6 +1,7 @@
+#Trabajo Practico - Administracion GNU/LINUX  
 
----------------Trabajo practico GNU/LINUX--------------
-     Instalacion de onwCloud a partir de Docker-compose
+Instalacion de onwCloud a partir de Docker-compose
+
 -------------------------------------------------------
 Crear un directorio 
 
