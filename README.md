@@ -1,4 +1,4 @@
-#Trabajo Practico - Administracion GNU/LINUX  
+##Trabajo Practic o - Administracion GNU/LINUX  
 
 Instalacion de onwCloud a partir de Docker-compose
 
@@ -24,8 +24,8 @@ ADMIN_USERNAME=admin
 ADMIN_PASSWORD=admin
 HTTP_PORT=8080
 
-Habilitar e iniciar el contenedor 
+H            abilitar e inic iar el contenedor 
 
-sudo docker-compose up -d 
+sudo docker-compose  up -d 
 
 
